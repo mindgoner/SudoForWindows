@@ -10,3 +10,7 @@ Just copy sudo.cmd to C:\Windows\System32 folder and restart your PC.
 3. Click "Environment Variables" buttan and in "System variables" look for variable named "Path".
 4. Double click "Path" and paste sudo's file location into new row.
 5. Click "OK" few times to apply all changes and then restart your PC.
+
+## Usage
+
+Just type "sudo PROGRAM.EXE" to run PROGRAM.EXE as administrator.
